@@ -1,0 +1,5 @@
+{
+  "name": "Salud en tu Plato",
+  "description": "Planificación nutricional familiar adaptada a condiciones de salud y contexto local de Santa Cruz, Bolivia.",
+  "requestFramePermissions": ["notifications"]
+}
